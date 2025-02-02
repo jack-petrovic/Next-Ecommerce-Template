@@ -1,10 +1,10 @@
-🛍️ <h1>E-Commerce App with Next.js</>
+🛍️ <h2>E-Commerce App with Next.js</h2><br/>
 Welcome to the E-Commerce App built with Next.js! This project showcases a modern online shopping experience, utilizing the latest technologies to provide a seamless user interface and efficient backend.
 
-🌟 Introduction to Our Company
+🌟 <h3>Introduction to Our Company</h3><br/>
 At Customer Centric Tech Company, we are passionate about creating innovative solutions that meet the evolving needs of our clients. Our team of skilled developers and designers is dedicated to delivering high-quality applications that enhance user experiences and drive business success.
 
-📦 Project Installation
+📦 <h3>Project Installation</h3><br>
 🛍Project Installation:
 # Clone or download the project
 # Install dependencies
@@ -28,7 +28,7 @@ npm install
 npm run db:push
 Running the Project:
 
-🚀 Running the Project
+🚀 <h3>Running the Project</h3><br/>
 # Development mode
 npm run dev
 # This will start:
