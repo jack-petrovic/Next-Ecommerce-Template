@@ -4,6 +4,8 @@ Welcome to the E-Commerce App built with Next.js! This project showcases a moder
 <h3>🌟 Introduction to Our Company</h3><br/>
 At Customer Centric Tech Company, we are passionate about creating innovative solutions that meet the evolving needs of our clients. Our team of skilled developers and designers is dedicated to delivering high-quality applications that enhance user experiences and drive business success.
 
+![img.png](img.png)
+
 <h3>📦 Project Installation</h3><br/>
 # Clone or download the project
 # Install dependencies
